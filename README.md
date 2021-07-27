@@ -1,7 +1,5 @@
 # react-ts-forloop
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-1xsyu3)
-
 ```js
 import React from 'react';
 
